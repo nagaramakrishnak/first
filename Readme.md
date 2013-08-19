@@ -22,4 +22,6 @@ Help3			# Describe help 3
 
 ## Developerss
 
-* [List of contributors] (https://github.com/nagaramakrishnak/contributors)
+
+**List of contributors:**  Naga
+
