@@ -20,8 +20,6 @@ Help2			# Describe help 2
 Help3			# Describe help 3
 ```
 
-## Developers
+## Developerss
 
-* [List of contributors][contribute]
-
-[contribute]: https://github.com/revans/bash-it/contributors
+* [List of contributors] (https://github.com/nagaramakrishnak/contributors)
