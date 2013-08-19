@@ -20,7 +20,7 @@ Help2			# Describe help 2
 Help3			# Describe help 3
 ```
 
-## Developerss
+## Developers
 
 
 **List of contributors:**  Naga
